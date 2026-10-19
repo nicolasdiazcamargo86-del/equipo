@@ -1,0 +1,29 @@
+body{
+
+    background-color: rgb(216, 200, 181);
+}
+
+h1{
+    color: rgb(0, 60, 255);
+    text-align: center;
+    border-color: black;
+}
+
+ul{
+    color: rgb(189, 179, 113);
+    border-color: black;
+}
+
+ol{
+    color: rgb(189, 179, 113); 
+    border-color: black;
+}
+
+div{
+    border-style: dotted;
+    background-color: azure;
+}
+
+nav{
+    border-style: groove;
+}
